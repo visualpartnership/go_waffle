@@ -1,4 +1,5 @@
-baseURL = "https://visualpartnership.xyz/waffle"
+#baseURL = "https://visualpartnership.xyz/waffle" # Production App
+baseURL = "https://euphonious-starlight-f228be.netlify.app" # Staging App
 languageCode = "en-us"
 title = "Hugo Winston"
 theme = "hugo-winston-theme"
