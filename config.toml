@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://visualpartnership.xyz/waffle"
 languageCode = "en-us"
 title = "Hugo Winston"
 theme = "hugo-winston-theme"
