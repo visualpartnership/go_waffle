@@ -1,0 +1,6 @@
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = git@github.com:visualpartnership/hugo-winston-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:visualpartnership/waffle.git
