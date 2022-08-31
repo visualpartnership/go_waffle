@@ -1,6 +1,6 @@
 baseURL = "https://visualpartnership.xyz/waffle" # Production App
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "Aprendices Visualpartnership"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
