@@ -74,5 +74,4 @@ Elegir tema, es muy importante revisar que sea compatible con la versión de HUG
 
 ![image](https://user-images.githubusercontent.com/99162884/183565439-e2e331d0-c2d1-4218-89e1-063b80e67b7d.png)
 
-
 Y listo puedes comenzar a crear tu primer sitio web estático.
