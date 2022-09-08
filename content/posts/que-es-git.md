@@ -1,6 +1,6 @@
 ---
 title: "Que es Git y como comenzar a usarlo"
-date: 2022-09/07
+date: 2022-09-07
 description: 'Descripción de comandos básicos de Git'
 ---
 # ¿Qué es GIT?
