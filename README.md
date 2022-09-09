@@ -16,6 +16,13 @@ En esta página encontrarás información detallada de como instarlo en linux y 
 
 __2. ¿Cómo funciona hugo?__
 
+Hugo es un generador de sitios web estáticos. Para generar ese sitio estático HUGO necesita un tema y ese tema trae el paquete de css, html y js necesarios para su funcionamiento, y un archivo de configuración para indicarle de donde tomará el tema en el que se basará.
+
+Hugo crea un paquete con el contenido neceario para tu sitio estático, en este caso usamos GitHub Pages pero con ese paquete que te da podrias usar otra cosa para desplegar tu sitio.
+
+![hugo](https://user-images.githubusercontent.com/99162884/189439187-3ce271e7-63b8-4921-81ee-a15e30c61811.jpg)
+
+[Leer más](https://visualpartnership.xyz/waffle/posts/gohugo/)
 
 __3. ¿Cómo instalar los submódulos?__
 
