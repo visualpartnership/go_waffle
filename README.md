@@ -1,4 +1,4 @@
-## Instrucciones de uso
+## Instrucciones de uso!
 
 __1. Necesitas tener instalado Hugo__
 
