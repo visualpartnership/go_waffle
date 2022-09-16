@@ -26,7 +26,6 @@ git add submodule [url de fork repositorio]
 
 Se ve algo asi:
 
-image.png
 
 Y si entras a la carpeta observarás el enlace al repositorio que se conecta.
 
